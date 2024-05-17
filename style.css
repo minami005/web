@@ -1,0 +1,20 @@
+.top {
+    background-color: #acd4f7;
+    
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
+.top{
+    background-image: url(flowers-4072214_1920.jpg);
+}
+
+section{
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
